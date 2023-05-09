@@ -1,0 +1,8 @@
+E:\Programming\Static\DefiniraneNaPerson\bin\Debug\DefiniraneNaPerson.exe.config
+E:\Programming\Static\DefiniraneNaPerson\bin\Debug\DefiniraneNaPerson.exe
+E:\Programming\Static\DefiniraneNaPerson\bin\Debug\DefiniraneNaPerson.pdb
+E:\Programming\Static\DefiniraneNaPerson\obj\Debug\DefiniraneNaPerson.csproj.AssemblyReference.cache
+E:\Programming\Static\DefiniraneNaPerson\obj\Debug\DefiniraneNaPerson.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Static\DefiniraneNaPerson\obj\Debug\DefiniraneNaPerson.csproj.CoreCompileInputs.cache
+E:\Programming\Static\DefiniraneNaPerson\obj\Debug\DefiniraneNaPerson.exe
+E:\Programming\Static\DefiniraneNaPerson\obj\Debug\DefiniraneNaPerson.pdb

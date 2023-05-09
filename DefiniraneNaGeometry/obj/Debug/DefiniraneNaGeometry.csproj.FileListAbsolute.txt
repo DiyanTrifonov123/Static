@@ -1,0 +1,8 @@
+E:\Programming\Static\DefiniraneNaGeometry\bin\Debug\DefiniraneNaGeometry.exe.config
+E:\Programming\Static\DefiniraneNaGeometry\bin\Debug\DefiniraneNaGeometry.exe
+E:\Programming\Static\DefiniraneNaGeometry\bin\Debug\DefiniraneNaGeometry.pdb
+E:\Programming\Static\DefiniraneNaGeometry\obj\Debug\DefiniraneNaGeometry.csproj.AssemblyReference.cache
+E:\Programming\Static\DefiniraneNaGeometry\obj\Debug\DefiniraneNaGeometry.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Static\DefiniraneNaGeometry\obj\Debug\DefiniraneNaGeometry.csproj.CoreCompileInputs.cache
+E:\Programming\Static\DefiniraneNaGeometry\obj\Debug\DefiniraneNaGeometry.exe
+E:\Programming\Static\DefiniraneNaGeometry\obj\Debug\DefiniraneNaGeometry.pdb

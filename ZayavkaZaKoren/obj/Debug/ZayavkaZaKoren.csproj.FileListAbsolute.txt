@@ -1,0 +1,8 @@
+E:\Programming\Static\ZayavkaZaKoren\bin\Debug\ZayavkaZaKoren.exe.config
+E:\Programming\Static\ZayavkaZaKoren\bin\Debug\ZayavkaZaKoren.exe
+E:\Programming\Static\ZayavkaZaKoren\bin\Debug\ZayavkaZaKoren.pdb
+E:\Programming\Static\ZayavkaZaKoren\obj\Debug\ZayavkaZaKoren.csproj.AssemblyReference.cache
+E:\Programming\Static\ZayavkaZaKoren\obj\Debug\ZayavkaZaKoren.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Static\ZayavkaZaKoren\obj\Debug\ZayavkaZaKoren.csproj.CoreCompileInputs.cache
+E:\Programming\Static\ZayavkaZaKoren\obj\Debug\ZayavkaZaKoren.exe
+E:\Programming\Static\ZayavkaZaKoren\obj\Debug\ZayavkaZaKoren.pdb
